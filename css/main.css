@@ -1,0 +1,31 @@
+body {
+  background-color: #c7e8e7;
+}
+p {
+  color: Black;
+}
+li {
+  list-style-type: none;
+}
+/* removes bulletin*/
+img {
+  margin-left:150px;
+  margin-top: 40px;
+  width: 800px;
+}
+.form-group{
+  width: 900px;
+}
+* {
+  margin:auto;
+  padding: 0;
+}
+#input{
+  margin-bottom: 10px;
+}
+#button{
+  margin-top: 10px;
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+}
